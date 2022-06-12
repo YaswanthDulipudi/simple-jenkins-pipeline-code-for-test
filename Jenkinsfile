@@ -5,7 +5,7 @@ pipeline{
     
        stage("date-stage"){
            steps{
-              echo "Hello moqaddas dada"
+              echo "Hello yaswanth dulipudi"
            }
        }
        
